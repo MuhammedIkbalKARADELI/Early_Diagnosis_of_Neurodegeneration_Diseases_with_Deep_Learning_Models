@@ -9,7 +9,6 @@ DEPARTMENT OF BIOMEDICAL ENGINEERING
 
 In addition to the study, another MRI technique, DTI (Diffusion Tensor Imaging), was used to obtain FA (Fractional Anisotropy) images, and image enhancement techniques were applied to further investigate Alzheimer's disease and develop related studies. These steps were taken to assist in the training and detection processes in the deep learning stages using the enhanced FA images. The findings in this study aim to assist medical professionals in the early diagnosis of Dementia and Alzheimer's disease
 
-![image](https://github.com/MuhammedIkbalKARADELI/Early_Diagnosis_of_Neurodegeneration_Diseases_with_Deep_Learning_Models/assets/87783022/ae8ce785-1869-43ff-996a-839c7fab0765)
 
 
 
